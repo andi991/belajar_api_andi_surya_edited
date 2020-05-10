@@ -1,6 +1,6 @@
 # belajarapiandisuryanew
 
-a simple CRUD API app with flutteri
+a simple CRUD API app with flutter
 
 if flutter http pakage does not exist in android studio please reffer to this link
 https://stackoverflow.com/questions/53744989/flutter-http-package-does-not-exist
